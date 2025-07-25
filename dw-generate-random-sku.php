@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: DW Generate Random SKU
- * Plugin URI: https://github.com/seu-usuario/dw-generate-random-sku
+ * Plugin URI: https://github.com/agenciadw/dw-generate-random-sku
  * Description: Gera automaticamente SKUs aleatórios e únicos para produtos WooCommerce quando não são fornecidos manualmente.
  * Version: 1.0.2
  * Author: David William da Costa
